@@ -1,0 +1,2 @@
+# proglog
+ProgLog in golang
